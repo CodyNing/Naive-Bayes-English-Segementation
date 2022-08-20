@@ -1,4 +1,4 @@
-# Naive-Bayes-English-Segementation
+# Naive-Bayes-English-Segmentation
 
 Simple naive Bayes model implementation for English word segmentation in native python.
 
